@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="splash_image" type="id"/>
+    <item name="settings" type="id"/>
+    <item name="fragment_container" type="id"/>
+    <item name="settings_fragment" type="id"/>
+    <item name="recycler_view" type="id"/>
+    <item name="mv_image" type="id"/>
+    <item name="home_page_video_icon" type="id"/>
+    <item name="description" type="id"/>
+    <item name="title" type="id"/>
+    <item name="swipe_refresh_layout" type="id"/>
+    <item name="avatar" type="id"/>
+    <item name="author" type="id"/>
+    <item name="mv_count" type="id"/>
+    <item name="tab_layout" type="id"/>
+    <item name="view_pager" type="id"/>
+</resources>

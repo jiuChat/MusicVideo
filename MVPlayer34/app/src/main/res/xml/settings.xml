@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Preference
+        android:title="@string/clear_cache"
+        android:key="clear_cache"/>
+
+    <SwitchPreference
+        android:title="@string/push_notification"
+        android:key="push_notification"/>
+
+    <SwitchPreference
+        android:title="@string/no_wifi_load_images"
+        android:key="no_wifi_load_images"/>
+
+    <Preference
+        android:title="@string/about"
+        android:key="about"/>
+<!--
+    <PreferenceCategory android:title="滴滴滴">
+        <CheckBoxPreference
+            android:title="啦啦啦啦"
+            android:summary="怕啪啪"/>
+
+        <EditTextPreference
+            android:title="嘿嘿嘿"/>
+
+    </PreferenceCategory>-->
+
+
+
+</PreferenceScreen>
